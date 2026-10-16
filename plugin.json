@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "h3-prompt-master",
+  "version": "1.0.0",
+  "description": "MiniMax H3 prompts, shotlists and production planning across 14 creative workflows.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "defaultPrompt": [
+          "Use H3-Prompt-Master to create a MiniMax H3 video prompt from my idea."
+        ],
+        "longDescription": "One entry point for H3 prompt writing, image prompts, animation, ads, fights, music videos, explainers and screenplay breakdowns.",
+        "displayName": "H3-Prompt-Master",
+        "category": "Productivity",
+        "shortDescription": "MiniMax H3 prompts and cinematic shotlists"
+      }
+    }
+  }
+}

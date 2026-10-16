@@ -1,0 +1,6 @@
+interface:
+  display_name: "H3-Prompt-Master"
+  short_description: "MiniMax H3 video prompts, shotlists and creative workflows"
+  default_prompt: "Use $h3-prompt-master to turn my idea into a MiniMax H3 video prompt."
+policy:
+  allow_implicit_invocation: true

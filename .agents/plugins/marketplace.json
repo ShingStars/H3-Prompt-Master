@@ -1,0 +1,20 @@
+{
+  "name": "h3-prompt-master",
+  "interface": {
+    "displayName": "H3-Prompt-Master"
+  },
+  "plugins": [
+    {
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "category": "Productivity",
+      "name": "h3-prompt-master"
+    }
+  ]
+}
